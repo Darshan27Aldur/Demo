@@ -17,6 +17,6 @@ public void data2()
 {
 	Reporter.log("2",true);
 	
-	//installed git
+	//installed git01
 }
 }
