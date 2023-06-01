@@ -16,5 +16,7 @@ public void data1()
 public void data2()
 {
 	Reporter.log("2",true);
+	
+	//installed git
 }
 }
